@@ -1,4 +1,4 @@
-#EX 2 : Develop a Java application to generate Electricity bill
+# EX 2 : Develop a Java application to generate Electricity bill
 ### AIM:
 
 ####  To develop a Java application to generate Electricity bill and Compute the bill amount using the following tariff.  
