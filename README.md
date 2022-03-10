@@ -60,6 +60,8 @@ class Customerdata
 
 
 
+## OUTPUT
+![Output](output.png)
 
 
 
